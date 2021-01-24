@@ -40,4 +40,4 @@ button.on("click", () => {
     else {
         add_tbody.append("tr").append("td").text("Nothing sighted here :/");
     }
-})
+});
